@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+sentencepiece
+evaluate
+rouge_score
+datasets
+pandas
+numpy
